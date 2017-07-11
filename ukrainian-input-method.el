@@ -17,6 +17,9 @@
 
 ;;; Commentary:
 ;;
+;; Input method for Ukrainian based on OS X Ukrainian keyboard layout with some
+;; custom modifications.
+;;
 ;; Друкуй українською!
 ;;
 
