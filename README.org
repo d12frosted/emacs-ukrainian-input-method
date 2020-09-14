@@ -4,3 +4,15 @@ Input method for Ukrainian based on OS X Ukrainian keyboard layout with some
 custom modifications.
 
 Друкуй українською!
+
+** Installation
+
+Using [[https://github.com/jwiegley/use-package][use-package]] and [[https://github.com/raxod502/straight.el][straight.el]]:
+
+#+begin_src emacs-lisp
+  (use-package ukrainian-input-method
+    :straight (ukrainian-input-method
+               :type git
+               :host github
+               :repo "d12frosted/emacs-ukrainian-input-method"))
+#+end_src
