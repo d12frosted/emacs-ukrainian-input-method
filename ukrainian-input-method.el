@@ -32,7 +32,7 @@
  modifications." nil t t t t nil nil nil nil nil t)
 
 (quail-define-rules
- ("`" ?`)
+ ("`" ?')
  ("1" ?1)
  ("2" ?2)
  ("3" ?3)
