@@ -1,3 +1,9 @@
+#+begin_html
+<p align="center">
+  <a href="https://github.com/sponsors/d12frosted"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-d12frosted-pink?logo=githubsponsors&logoColor=white"/></a>
+</p>
+#+end_html
+
 * Ukrainian Input Method for Emacs
 
 Input method for Ukrainian based on OS X Ukrainian keyboard layout with some
@@ -16,3 +22,7 @@ Using [[https://github.com/jwiegley/use-package][use-package]] and [[https://git
                :host github
                :repo "d12frosted/emacs-ukrainian-input-method"))
 #+end_src
+
+* Support
+
+If you enjoy this project, you can support its development via [[https://github.com/sponsors/d12frosted][GitHub Sponsors]] or [[https://www.patreon.com/d12frosted][Patreon]].
